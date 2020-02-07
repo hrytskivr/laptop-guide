@@ -36,6 +36,7 @@ EFI
     │       ├── VoodooI2C.kext
     │       ├── VoodooI2CHID.kext
     │       └── VoodooPS2Controller.kext
+    │       └── WhateverGreen.kext
     ├── themes
     └── tools (optional)
         ├── Shell32.efi
